@@ -1,0 +1,14 @@
+E:\CMD Text Browser\CMD Text Browser\bin\Debug\CMD Text Browser.exe.config
+E:\CMD Text Browser\CMD Text Browser\bin\Debug\CMD Text Browser.exe
+E:\CMD Text Browser\CMD Text Browser\bin\Debug\CMD Text Browser.pdb
+E:\CMD Text Browser\CMD Text Browser\bin\Debug\CMD Text Browser.xml
+E:\CMD Text Browser\CMD Text Browser\obj\Debug\CMD Text Browser.vbprojResolveAssemblyReference.cache
+E:\CMD Text Browser\CMD Text Browser\obj\Debug\CMD_Text_Browser.Resources.resources
+E:\CMD Text Browser\CMD Text Browser\obj\Debug\CMD Text Browser.vbproj.GenerateResource.Cache
+E:\CMD Text Browser\CMD Text Browser\obj\Debug\CMD Text Browser.exe
+E:\CMD Text Browser\CMD Text Browser\obj\Debug\CMD Text Browser.xml
+E:\CMD Text Browser\CMD Text Browser\obj\Debug\CMD Text Browser.pdb
+E:\CMD Text Browser\CMD Text Browser\obj\Debug\CMD_Text_Browser.choose.resources
+E:\CMD Text Browser\CMD Text Browser\obj\Debug\CMD_Text_Browser.browser2.resources
+E:\CMD Text Browser\CMD Text Browser\obj\Debug\CMD_Text_Browser.load2.resources
+E:\CMD Text Browser\CMD Text Browser\obj\Debug\CMD Text Browser.vbproj.CoreCompileInputs.cache
