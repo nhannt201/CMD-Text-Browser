@@ -1,0 +1,12 @@
+E:\Create CMD TBR\Create CMD TBR\bin\Debug\Create CMD TBR.exe.config
+E:\Create CMD TBR\Create CMD TBR\bin\Debug\Create CMD TBR.exe
+E:\Create CMD TBR\Create CMD TBR\bin\Debug\Create CMD TBR.pdb
+E:\Create CMD TBR\Create CMD TBR\bin\Debug\Create CMD TBR.xml
+E:\Create CMD TBR\Create CMD TBR\obj\Debug\Create CMD TBR.vbprojResolveAssemblyReference.cache
+E:\Create CMD TBR\Create CMD TBR\obj\Debug\Create_CMD_TBR.home.resources
+E:\Create CMD TBR\Create CMD TBR\obj\Debug\Create_CMD_TBR.Resources.resources
+E:\Create CMD TBR\Create CMD TBR\obj\Debug\Create CMD TBR.vbproj.GenerateResource.Cache
+E:\Create CMD TBR\Create CMD TBR\obj\Debug\Create CMD TBR.exe
+E:\Create CMD TBR\Create CMD TBR\obj\Debug\Create CMD TBR.xml
+E:\Create CMD TBR\Create CMD TBR\obj\Debug\Create CMD TBR.pdb
+E:\Create CMD TBR\Create CMD TBR\obj\Debug\Create_CMD_TBR.trinhsoan1.resources
